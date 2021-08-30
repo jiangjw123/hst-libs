@@ -1,0 +1,16 @@
+{
+  "name": "hst-utils",
+  "version": "1.0.0",
+  "description": "工具函数",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "heart",
+    "eventBus"
+  ],
+  "author": "jiangjw",
+  "license": "MIT"
+}
